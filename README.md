@@ -1,7 +1,15 @@
-Use npm to install Cypress
+UI tests for website order pizza
 
-comand - npm install cypress
+1. To run tests:
 
-Run tests from the project folder
+https://github.com/serhiibozhenko/CypressTestTask.git
 
-comand - npx cypress open
+2. Install Node packages:
+
+npm install
+
+3. For run test:
+
+npx cypress open
+
+Design Pattern - Page Object
